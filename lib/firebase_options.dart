@@ -44,38 +44,38 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBC89i3hngn_X1536-fF7T3ZFtUaXY0YWM',
-    appId: '1:344733125968:web:a65af5a892da9bdd59f055',
-    messagingSenderId: '344733125968',
-    projectId: 'login-ccd60',
-    authDomain: 'login-ccd60.firebaseapp.com',
-    storageBucket: 'login-ccd60.appspot.com',
-    measurementId: 'G-6QMRB2BBS6',
+    apiKey: 'AIzaSyAqtIbBII4a3M3uRsDc0CTgsmauA3ijL7Q',
+    appId: '1:388318824077:web:df5fdf8920fedaa66f04c4',
+    messagingSenderId: '388318824077',
+    projectId: 'firestoredata-90c6c',
+    authDomain: 'firestoredata-90c6c.firebaseapp.com',
+    storageBucket: 'firestoredata-90c6c.appspot.com',
+    measurementId: 'G-KTLE4E53HF',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDSBaChrfCvQzuxNORtHObJduvVaQWqOms',
-    appId: '1:344733125968:android:67132d3d0151816259f055',
-    messagingSenderId: '344733125968',
-    projectId: 'login-ccd60',
-    storageBucket: 'login-ccd60.appspot.com',
+    apiKey: 'AIzaSyAc9ZK2un3yuOcHfjo5Gt3_KS4jV6N-PqA',
+    appId: '1:388318824077:android:6ab373bdfbc18d8c6f04c4',
+    messagingSenderId: '388318824077',
+    projectId: 'firestoredata-90c6c',
+    storageBucket: 'firestoredata-90c6c.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAQq66aC_OdN3bFi4mdjjl8oU3LQZqTFJs',
-    appId: '1:344733125968:ios:6068984f710300a659f055',
-    messagingSenderId: '344733125968',
-    projectId: 'login-ccd60',
-    storageBucket: 'login-ccd60.appspot.com',
+    apiKey: 'AIzaSyB9UCvEzN_Bz8bCsNJhd1Yt7aPcTIgYO9I',
+    appId: '1:388318824077:ios:585113326cd2dbd56f04c4',
+    messagingSenderId: '388318824077',
+    projectId: 'firestoredata-90c6c',
+    storageBucket: 'firestoredata-90c6c.appspot.com',
     iosBundleId: 'com.example.login',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAQq66aC_OdN3bFi4mdjjl8oU3LQZqTFJs',
-    appId: '1:344733125968:ios:4aec70c972f6b31e59f055',
-    messagingSenderId: '344733125968',
-    projectId: 'login-ccd60',
-    storageBucket: 'login-ccd60.appspot.com',
+    apiKey: 'AIzaSyB9UCvEzN_Bz8bCsNJhd1Yt7aPcTIgYO9I',
+    appId: '1:388318824077:ios:f5d2f63329bbe2156f04c4',
+    messagingSenderId: '388318824077',
+    projectId: 'firestoredata-90c6c',
+    storageBucket: 'firestoredata-90c6c.appspot.com',
     iosBundleId: 'com.example.login.RunnerTests',
   );
 }

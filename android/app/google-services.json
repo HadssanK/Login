@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "344733125968",
-    "project_id": "login-ccd60",
-    "storage_bucket": "login-ccd60.appspot.com"
+    "project_number": "388318824077",
+    "project_id": "firestoredata-90c6c",
+    "storage_bucket": "firestoredata-90c6c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:344733125968:android:67132d3d0151816259f055",
+        "mobilesdk_app_id": "1:388318824077:android:6ab373bdfbc18d8c6f04c4",
         "android_client_info": {
           "package_name": "com.example.login"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDSBaChrfCvQzuxNORtHObJduvVaQWqOms"
+          "current_key": "AIzaSyAc9ZK2un3yuOcHfjo5Gt3_KS4jV6N-PqA"
         }
       ],
       "services": {
